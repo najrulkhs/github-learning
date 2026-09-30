@@ -1,9 +1,8 @@
-print("Hello from my GitHub learning project!")
+def greet(message):
+    print(message)
 
-print("I just learned Git!")
 
-print("This change exists only on the experiment branch.")
-
-print("This change was made on GitHub.")
-
-print("Pull requests are starting to make sense!")
+greet("Hello from my GitHub learning project!")
+greet("I just learned Git!")
+greet("This change was made on GitHub.")
+greet("Pull requests are starting to make sense!")
