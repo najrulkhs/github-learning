@@ -1,4 +1,3 @@
-THIS IS NOT VALID PYTHON
 
 def greet(message):
     print(message)
